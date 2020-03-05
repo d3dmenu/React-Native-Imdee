@@ -1,2 +1,2 @@
-# React-Native
-Imdee
+# React-Native SE 
+Project Software Engineering
