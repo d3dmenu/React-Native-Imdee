@@ -1,6 +1,6 @@
 # React-Native SE 
-Project Software Engineering
-Kasetsart University
+- Project Software Engineering
+- Kasetsart University
 # Release It! 🚀
 
 🚀 Generic CLI tool to automate versioning and package publishing related tasks:
