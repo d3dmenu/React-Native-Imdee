@@ -12,7 +12,7 @@
 - [Git commit, tag, push](#git)
 - [Create release at GitHub](#github-releases) or [GitLab](#gitlab-releases)
 - [Generate changelog](#changelog)
-- [Publish to npm](#publish-to-npm)
+- [Publish to pypi](#publish-to-npm)
 - [Manage pre-releases](#manage-pre-releases)
 - [Hooks](#hooks)
 - Extend with [plugins](#plugins)
